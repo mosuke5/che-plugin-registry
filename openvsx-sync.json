@@ -254,5 +254,21 @@
   {
     "id": "Zowe.secrets-for-kubernetes",
     "version": "0.3.0"
+  },
+  {
+    "id": "MS-CEINTL.vscode-language-pack-ja",
+    "version": "1.110.0"
+  },
+  {
+    "id": "Anthropic.claude-code",
+    "version": "2.1.118"
+  },
+  {
+    "id": "Vue.volar",
+    "version": "3.2.7"
+  },
+  {
+    "id": "vscodevim.vim",
+    "version": "1.32.4"
   }
 ]
