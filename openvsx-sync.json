@@ -144,18 +144,6 @@
     "version": "1.21.0"
   },
   {
-    "id": "xdebug.php-debug",
-    "version": "1.37.0"
-  },
-  {
-    "id": "ms-dotnettools.vscode-dotnet-runtime",
-    "version": "2.3.6"
-  },
-  {
-    "id": "muhammad-sammy.csharp",
-    "version": "2.90.60"
-  },
-  {
     "id": "SonarSource.sonarlint-vscode",
     "version": "4.33.0"
   },
@@ -174,14 +162,6 @@
   {
     "id": "redhat.vscode-commons",
     "version": "0.0.6"
-  },
-  {
-    "id": "atlassian.atlascode",
-    "version": "4.0.4"
-  },
-  {
-    "id": "JFrog.jfrog-vscode-extension",
-    "version": "2.14.5"
   },
   {
     "id": "SonatypeCommunity.vscode-iq-plugin",
@@ -226,34 +206,6 @@
   {
     "id": "Kelvin.vscode-sshfs",
     "version": "1.26.1"
-  },
-  {
-    "id": "mongodb.mongodb-vscode",
-    "version": "1.13.3"
-  },
-  {
-    "id": "Zowe.vscode-extension-for-zowe",
-    "version": "3.3.0"
-  },
-  {
-    "id": "Zowe.zowe-explorer-ftp-extension",
-    "version": "3.3.0"
-  },
-  {
-    "id": "Zowe.cics-extension-for-zowe",
-    "version": "3.13.2"
-  },
-  {
-    "id": "IBM.zopeneditor",
-    "version": "5.7.1"
-  },
-  {
-    "id": "IBM.zopendebug",
-    "version": "5.5.3"
-  },
-  {
-    "id": "Zowe.secrets-for-kubernetes",
-    "version": "0.3.0"
   },
   {
     "id": "MS-CEINTL.vscode-language-pack-ja",
